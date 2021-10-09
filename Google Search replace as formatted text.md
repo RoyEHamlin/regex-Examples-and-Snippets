@@ -1,6 +1,6 @@
 # This sample Regex matches and returns a more formatted version from Google Calendar's Search Results.  
 
-![Google Calendar Regex Replace](https://github.com/RoyEHamlin/regex-Examples-and-Snippets/blob/main/images/GC - Results.PNG)
+![Google Calendar Regex Replace]("https://github.com/RoyEHamlin/regex-Examples-and-Snippets/blob/main/images/GC - Results.PNG")
 
 ## Example: 
 ### Step 1: Search for event(s) using Google Calendar's search option.
