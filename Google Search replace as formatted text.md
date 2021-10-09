@@ -4,7 +4,7 @@
 
 ## Example: 
 ### Step 1: Search for event(s) using Google Calendar's search option.
-![Google Calendar search](/images/GC - Search.PNG)
+![Google Calendar search](https://github.com/RoyEHamlin/regex-Examples-and-Snippets/blob/main/images/GC%20-%20Search.PNG 'Search')
 
 ### Step 2: The following text is copied directly from Google Calendar.
 
