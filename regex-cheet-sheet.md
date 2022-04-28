@@ -1,6 +1,6 @@
 # Basics
 ## Group
-- Grouping : (match)some(pattern)
+- Grouping : ```(match)some(pattern)```
   - Use Groups in Replacement
     - \1 more \2
     - $1 more $2
