@@ -7,6 +7,6 @@
 
 # Examples and Snippets
 ## Negative Match Line [stackoverflow-reference](https://stackoverflow.com/questions/1240275/how-to-negate-specific-word-in-regex#answer-1240293)
-- Look ahead : ```^(?!.*?bar).*```
-- Look behind : ```^(.(?<!bar))*?$```
-- Line not containing : ```^(?!.*TEXT-TO-NOT-MATCH).*\n```
+- Look ahead for "bar" : ```^(?!.*?bar).*```
+- Look behind for "bar" : ```^(.(?<!bar))*?$```
+- Line not containing "bar" (General) : ```^(?!.*bar).*\n```
